@@ -1,1 +1,2 @@
 Ma być podział na pliki
+Skąd wiesz? I wywala mi błąd debuggera po wykonaniu kodu lmao
