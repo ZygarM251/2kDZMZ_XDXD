@@ -1,4 +1,2 @@
 TAK powiedział że ma być podział
-Kurwa bot się zacina w mainie xD
-WAŻNE!!!!
-możesz używać sprintf?
+Tak moge uzywac sprintf
